@@ -4,6 +4,11 @@ A central knowledge base for new members that want to get involved with club pro
 # To Do
 
 Learn how to create a website on github.io
+
+Write site in HTML/CSS, then include/create a search function.
+
+Start with static sites with HTML, then CSS, then include a search function
+
 ```
 https://medium.com/@shobhitrathi10/github-io-getting-started-e0d643dac850
 ```
